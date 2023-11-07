@@ -1,0 +1,16 @@
+name: compass-ui
+id: ari:cloud:compass:3c6f88f2-2c38-4b9b-8147-b3c4a677bfb0:component/95e50b89-e15b-494e-a601-da0aba4a3b2b/1eed2589-1a0c-4b02-b9b0-222b7f9db780
+description: Test Repository hosting an example ui component for Atlassian Compass
+configVersion: 1
+typeId: UI_ELEMENT
+fields:
+  tier: 4
+links:
+  - name: null
+    type: REPOSITORY
+    url: https://github.com/ThaterTech/compass-ui
+relationships:
+  DEPENDS_ON: []
+labels:
+  - source:github
+customFields: null
