@@ -10,7 +10,8 @@ links:
     type: REPOSITORY
     url: https://github.com/ThaterTech/compass-ui
 relationships:
-  DEPENDS_ON: []
+  DEPENDS_ON: 
+    - ari:cloud:compass:3c6f88f2-2c38-4b9b-8147-b3c4a677bfb0:component/95e50b89-e15b-494e-a601-da0aba4a3b2b/e2585d1d-cd2c-4bf4-9d92-157f4e112d66
 labels:
   - source:github
 customFields: null
